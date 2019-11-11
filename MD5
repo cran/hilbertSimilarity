@@ -1,4 +1,4 @@
-330a099d2847c2090604f3bd5414f60d *DESCRIPTION
+0a038a5604431188ac11fe8b602b3851 *DESCRIPTION
 cc3a44a0996df20d2a4b010f5407018a *NAMESPACE
 2d885ac5030a7041bdd0b237c768c660 *R/RcppExports.R
 cb7d5069c2a3facd11d6d7eaabec166f *R/add.cut.R
@@ -13,14 +13,14 @@ f54965db031969917c41749a03aa39cc *R/hilbertProjection.R
 cd1c35fbdb8f06e9172cfbef4fbcd306 *R/localMinima.R
 732909d8a746e40531fc356d3f53623e *R/make.cut.R
 95df4ad91086b2b4345fea73796fbf99 *R/show.cut.R
-de0768d10875d239c5354283e1383cd1 *README.md
+7912451ea13016a20aa80514dfb7b307 *README.md
 2540bc798a54d5c5518166291dc22a37 *build/vignette.rds
 54465e802e2d427ba17dcb27278aa6ea *inst/doc/comparing_samples.R
 885094ffac0540d39b6da20855424b05 *inst/doc/comparing_samples.Rmd
-acd7ad6dd76bb681971f665d6f26c288 *inst/doc/comparing_samples.html
+1cd643c636a0b8552259111827718484 *inst/doc/comparing_samples.html
 fa58953b907430e2a3eb0e5122404201 *inst/doc/identifying_effects.R
 c19531a773b38729f4cd98e413624a26 *inst/doc/identifying_effects.Rmd
-17f979f57c4e5935b4829b1867f3e82c *inst/doc/identifying_effects.html
+b2074c56666e8bdc64c3487f2eb0ea3b *inst/doc/identifying_effects.html
 5432d9845cafcdb1411a9bdaf9f8139d *man/add.cut.Rd
 9a9e2fe807cdd0fc9b76dfe2e1a0b508 *man/andrewsProjection.Rd
 285b999f287b46006bb275373f96ce0d *man/do.cut.Rd
@@ -37,6 +37,6 @@ ab9be63147a898004cca07d3b1d5836c *man/show.cut.Rd
 e3d3cb360fbfdb3c6974e14eb5f09870 *src/Makevars
 e3d3cb360fbfdb3c6974e14eb5f09870 *src/Makevars.win
 2eeb0f57cb28c30e2468eb946b00e8ff *src/RcppExports.cpp
-0fc636b4da5d00a9bf106fefba7f1939 *src/mapping.cpp
+658926f6f939c34721efe8fef0eace06 *src/mapping.cpp
 885094ffac0540d39b6da20855424b05 *vignettes/comparing_samples.Rmd
 c19531a773b38729f4cd98e413624a26 *vignettes/identifying_effects.Rmd
